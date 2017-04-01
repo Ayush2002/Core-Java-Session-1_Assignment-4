@@ -1,0 +1,14 @@
+public class Session1Assignment4 {
+	
+	public static void main(String s[]){
+		
+		System.out.println("65 - A");
+		System.out.println("65 - B");
+		System.out.println("65 - C");
+		System.out.println("65 - D");
+		System.out.println("65 - E");
+		System.out.println("65 - F");
+	
+	}
+
+}
